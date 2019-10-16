@@ -1,5 +1,6 @@
 def mario
-   puts phrase 'It's
+   status = 'Thank You Mario! But our Princess Is In Another Castle!'
+   puts phrase
 end
 
 def toadstool
